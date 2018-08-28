@@ -1,0 +1,546 @@
+{
+	"name": "Streadata.io API Gallery - Sports",
+	"description": "This is a repository of sports APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/sports.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-28",
+	"url": "http://sports.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "ESPN",
+			"x-api-slug": "espn",
+			"description": "Visit ESPN to get up-to-the-minute sports news coverage, scores, highlights and commentary for NFL, MLB, NBA, College Football, NCAA Basketball and more.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/191-espn.jpg",
+			"humanURL": "http://developer.espn.com/",
+			"baseURL": "https:///",
+			"tags": "Sports",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sports/master/_listings/espn/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Fitbit",
+			"x-api-slug": "fitbit",
+			"description": "Find your fit with Fitbits family of fitness products that help you stay motivated and improve your health by tracking your activity, exercise, food, weight and sleep.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/200-fitbit.jpg",
+			"humanURL": "http://fitbit.com",
+			"baseURL": "https://api.fitbit.com//1",
+			"tags": "Sports",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sports/master/_listings/fitbit/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "A View From My Seat",
+			"x-api-slug": "a-view-from-my-seat",
+			"description": "Seating view photos from sports and concert stadiums, arenas and theaters around the world",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/297-a-view-from-my-seat.jpg",
+			"humanURL": "http://aviewfrommyseat.com/",
+			"baseURL": "https:///",
+			"tags": "Sports",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sports/master/_listings/a-view-from-my-seat/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "CycleStreets",
+			"x-api-slug": "cyclestreets",
+			"description": "UK-wide cycle journey planner system, which lets you plan routes from A to B by bike. It is designed by cyclists, for cyclists, and caters for the needs of both confident and less confident cyclists.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/390-cyclestreets.jpg",
+			"humanURL": "http://www.cyclestreets.net",
+			"baseURL": "https:///",
+			"tags": "Sports",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sports/master/_listings/cyclestreets/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "dailymile",
+			"x-api-slug": "dailymile",
+			"description": "Share your training with friends and stay motivated. Find training partners, local events, routes, and groups. Social training for runners, triathletes, and cyclists.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/571-dailymile.jpg",
+			"humanURL": "http://www.dailymile.com/api",
+			"baseURL": "https:///",
+			"tags": "Sports",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sports/master/_listings/dailymile/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Team EveryTrail",
+			"x-api-slug": "team-everytrail",
+			"description": "Search 50,000 trails with detailed reviews, photos and maps curated by millions of hikers, campers, and nature lovers like you.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/778-team-everytrail.jpg",
+			"humanURL": "http://www.everytrail.com",
+			"baseURL": "https:///",
+			"tags": "Sports",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sports/master/_listings/team-everytrail/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "RunKeeper",
+			"x-api-slug": "runkeeper",
+			"description": "Join the community of over 45 million runners who make every run amazing with Runkeeper. Track your workouts and reach your fitness goals!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/916-runkeeper.jpg",
+			"humanURL": "http://runkeeper.com",
+			"baseURL": "https:///",
+			"tags": "Sports",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sports/master/_listings/runkeeper/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Sierra Trading Post ",
+			"x-api-slug": "sierra-trading-post-",
+			"description": "Discover the Brands. Discover the Savings. Discover a Bigger Life.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/931-sierra-trading-post-.jpg",
+			"humanURL": "http://www.sierratradingpost.com/",
+			"baseURL": "https:///",
+			"tags": "Sports",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sports/master/_listings/sierra-trading-post-/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "TeamSnap",
+			"x-api-slug": "teamsnap",
+			"description": "The #1 sports team management app makes communication and organization a breeze. Clubs and leagues love us too. Try it now.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/950-teamsnap.jpg",
+			"humanURL": "http://www.teamsnap.com",
+			"baseURL": "https:///",
+			"tags": "Sports",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sports/master/_listings/teamsnap/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Seatwave",
+			"x-api-slug": "seatwave",
+			"description": "Buy or Sell Tickets on Seatwave for all Concerts, Theatre & Sporting Events Seatwave | Official Ticketmaster Marketplace",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1144-seatwave.jpg",
+			"humanURL": "http://developer.seatwave.com/",
+			"baseURL": "https:///",
+			"tags": "Sports",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sports/master/_listings/seatwave/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "SportsDataHub.com",
+			"x-api-slug": "sportsdatahub-com",
+			"description": "Leverage the power of sports data with API feeds and digital content solutions. With coverage for over 800 leagues, Sportradar has what you need!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1164-sportsdatahub-com.jpg",
+			"humanURL": "http://sportsdatallc.com/",
+			"baseURL": "https:///",
+			"tags": "Sports",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sports/master/_listings/sportsdatahub-com/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Watch",
+			"x-api-slug": "watch",
+			"description": "This website is for sale! wewatchthematch.com is your first and best source for all of the information youre looking for. From general topics to more of what you would expect to find here, wewatchthematch.com has it all. We hope you find what you are ...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1215-watch.jpg",
+			"humanURL": "http://dev.wewatchthematch.com/index.php?r=site/index",
+			"baseURL": "https:///",
+			"tags": "Sports",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sports/master/_listings/watch/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "SpitCast",
+			"x-api-slug": "spitcast",
+			"description": "Accurate California surf reports, 7 day surf forecasts, spot maps and guides for Northern and Southern CA, San Diego, Orange County, Santa Cruz, and more.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1274-spitcast.jpg",
+			"humanURL": "http://www.spitcast.com/api/docs/",
+			"baseURL": "https:///",
+			"tags": "Sports",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sports/master/_listings/spitcast/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "FantasyData",
+			"x-api-slug": "fantasydata",
+			"description": "Live coverage of all major sports delivered via cloud-based REST API. We cover NFL, MLB, NBA, NHL, PGA, NASCAR and more. Sign up for a free trial today!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1545-fantasydata.jpg",
+			"humanURL": "https://fantasydata.com",
+			"baseURL": "https:///",
+			"tags": "Sports",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sports/master/_listings/fantasydata/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "TIDYHQ",
+			"x-api-slug": "tidyhq",
+			"description": "Get more done with TidyHQ: Membership management, complete administration suite including CRM, Events ticketing, Financial management, Meetings, File Sharing, Communications. Syncing across your entire committee or board. Instant govnerance and succssi...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1600-tidy.jpg",
+			"humanURL": "http://www.tidyhq.com",
+			"baseURL": "https:///",
+			"tags": "Sports",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sports/master/_listings/tidyhq/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "StatTrackr",
+			"x-api-slug": "stattrackr",
+			"description": "Make every shot count.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1792-stattrackr.jpg",
+			"humanURL": "http://stattrackr.com",
+			"baseURL": "https:///",
+			"tags": "Sports",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sports/master/_listings/stattrackr/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Xegesis",
+			"x-api-slug": "xegesis",
+			"description": "",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1853_logo.png",
+			"humanURL": "http://www.xegesis.eu",
+			"baseURL": "https:///",
+			"tags": "Sports",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sports/master/_listings/xegesis/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "teech.io",
+			"x-api-slug": "teech-io",
+			"description": "Teech is a full stack edtech platform as a service. It makes it easy for developers to build educational applications for web, Android and iOS. We offer a suite of tools (data storage, APIs, SDKs) for developers interested in building educational applications, both complete LMSs and games. Developers can integrate in their apps typical edtech functionalities like, for example, grading systems and students performance analytics, reducing costs and time to market of their products.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1997_logo.png",
+			"humanURL": "http://teech.io/",
+			"baseURL": "https:///",
+			"tags": "Sports",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sports/master/_listings/teech-io/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Soccermetrics API",
+			"x-api-slug": "soccermetrics-api",
+			"description": "",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/soccer-metrics.png",
+			"humanURL": "https://soccermetrics.net/",
+			"baseURL": "https:///",
+			"tags": "Sports",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sports/master/_listings/soccermetrics-api/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "League of Legends eSports",
+			"x-api-slug": "league-of-legends-esports",
+			"description": "LoL esports represents professional League of Legends on a global scale. Primarily it includes the five major professional leagues from around the globe.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/league-of-legends-esports.jpeg",
+			"humanURL": "http://na.lolesports.com/",
+			"baseURL": "https:///",
+			"tags": "Sports",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sports/master/_listings/league-of-legends-esports/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS EC2",
+			"x-api-slug": "aws-ec2",
+			"description": "Amazon Elastic Compute Cloud is a web service that provides resizable compute capacity in the cloud. It is designed to make web-scale cloud computing easier for developers. Amazon EC2s simple web service interface allows you to obtain and configure capacity with minimal friction. It provides you with complete control of your computing resources and lets you run on Amazon&rsquo;s proven computing environment. Amazon EC2 reduces the time required to obtain and boot new server instances to minutes, allowing you to quickly scale capacity, both up and down, as your computing requirements change. Amazon EC2 changes the economics of computing by allowing you to pay only for capacity that you actually use. Amazon EC2 provides developers the tools to build failure resilient applications and isolate themselves from common failure scenarios.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png",
+			"humanURL": "https://aws.amazon.com/ec2/",
+			"baseURL": ":///",
+			"tags": "Sports",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sports/master/_listings/aws-ec2/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "World Triathlon",
+			"x-api-slug": "world-triathlon",
+			"description": "The official triathlon resource. Triathlon event information, news, results, rankings, rules, education, and more from the International Triathlon Union.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28185-developers-triathlon-org.jpg",
+			"humanURL": "https://developers.triathlon.org",
+			"baseURL": "https:///",
+			"tags": "Sports",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sports/master/_listings/world-triathlon/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Sportradar",
+			"x-api-slug": "sportradar",
+			"description": "Sportradar is a global leader in understanding and leveraging the power of sports data and digital content for its clients around the world. We provide cutting-edge solutions and services to media companies, bookmakers, sports federations and state aut...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28256-developer-sportradar-com.jpg",
+			"humanURL": "https://developer.sportradar.com",
+			"baseURL": "https:///",
+			"tags": "Sports",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sports/master/_listings/sportradar/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Genius Sports",
+			"x-api-slug": "genius-sports",
+			"description": "We are a global leader in sports data technology, distribution, and commercialisation services. Our innovative data-driven solutions power over 250 leagues and federations.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28259-betting-geniussports-com.jpg",
+			"humanURL": "http://betting.geniussports.com",
+			"baseURL": "https:///",
+			"tags": "Sports",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sports/master/_listings/genius-sports/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Nike",
+			"x-api-slug": "nike",
+			"description": "Just Do It.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28262-dev-nike-com.jpg",
+			"humanURL": "http://dev.nike.com",
+			"baseURL": "https:///",
+			"tags": "Sports",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sports/master/_listings/nike/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Entertainment Express",
+			"x-api-slug": "entertainment-express",
+			"description": "Internet Video Archive (IVA) is a leading entertainment data company providing metadata, images and trailers/clips, for movie and TV content. With the launch of its award-winning Entertainment Express APIs, clients can easily access everything they need to create engaging content discovery experiences. By using Entertainment Express, clients can also connect to other services like movie showtimes and ticketing, content recommendations, content availability and TV channel line-ups. With over a million titles, episodes and over 150,000 videos available, IVA makes it easy for developers to integrate all the services they need at a very affordable price.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/IVA-logo.png",
+			"humanURL": "https://www.internetvideoarchive.com/",
+			"baseURL": "https://ee.iva-api.com//",
+			"tags": "Sports",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sports/master/_listings/entertainment-express/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Strava",
+			"x-api-slug": "strava",
+			"description": "Strava is software as a service used to track cycling, running, and swimming activity via GPS.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28739-strava.jpg",
+			"humanURL": "",
+			"baseURL": "https://www.strava.com//api/v3",
+			"tags": "Sports",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sports/master/_listings/strava/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Decathlon",
+			"x-api-slug": "decathlon",
+			"description": "Decathlon brings the joy of sports to people across the world by developing innovative and affordably priced sportswear and sports equipment products.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28814-developers-decathlon-com.jpg",
+			"humanURL": "https://developers.decathlon.com",
+			"baseURL": "https:///",
+			"tags": "Sports",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sports/master/_listings/decathlon/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Sports",
+	"include": [
+		{
+			"name": "ESPN",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sports/master/_listings/espn/apis.yaml"
+		},
+		{
+			"name": "Fitbit",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sports/master/_listings/fitbit/apis.yaml"
+		},
+		{
+			"name": "A View From My Seat",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sports/master/_listings/a-view-from-my-seat/apis.yaml"
+		},
+		{
+			"name": "CycleStreets",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sports/master/_listings/cyclestreets/apis.yaml"
+		},
+		{
+			"name": "dailymile",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sports/master/_listings/dailymile/apis.yaml"
+		},
+		{
+			"name": "Team EveryTrail",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sports/master/_listings/team-everytrail/apis.yaml"
+		},
+		{
+			"name": "RunKeeper",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sports/master/_listings/runkeeper/apis.yaml"
+		},
+		{
+			"name": "Sierra Trading Post ",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sports/master/_listings/sierra-trading-post-/apis.yaml"
+		},
+		{
+			"name": "TeamSnap",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sports/master/_listings/teamsnap/apis.yaml"
+		},
+		{
+			"name": "Seatwave",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sports/master/_listings/seatwave/apis.yaml"
+		},
+		{
+			"name": "SportsDataHub.com",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sports/master/_listings/sportsdatahub-com/apis.yaml"
+		},
+		{
+			"name": "Watch",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sports/master/_listings/watch/apis.yaml"
+		},
+		{
+			"name": "SpitCast",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sports/master/_listings/spitcast/apis.yaml"
+		},
+		{
+			"name": "FantasyData",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sports/master/_listings/fantasydata/apis.yaml"
+		},
+		{
+			"name": "TIDYHQ",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sports/master/_listings/tidyhq/apis.yaml"
+		},
+		{
+			"name": "StatTrackr",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sports/master/_listings/stattrackr/apis.yaml"
+		},
+		{
+			"name": "Xegesis",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sports/master/_listings/xegesis/apis.yaml"
+		},
+		{
+			"name": "teech.io",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sports/master/_listings/teech-io/apis.yaml"
+		},
+		{
+			"name": "Soccermetrics API",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sports/master/_listings/soccermetrics-api/apis.yaml"
+		},
+		{
+			"name": "League of Legends eSports",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sports/master/_listings/league-of-legends-esports/apis.yaml"
+		},
+		{
+			"name": "AWS EC2",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sports/master/_listings/aws-ec2/apis.yaml"
+		},
+		{
+			"name": "World Triathlon",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sports/master/_listings/world-triathlon/apis.yaml"
+		},
+		{
+			"name": "Sportradar",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sports/master/_listings/sportradar/apis.yaml"
+		},
+		{
+			"name": "Genius Sports",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sports/master/_listings/genius-sports/apis.yaml"
+		},
+		{
+			"name": "Nike",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sports/master/_listings/nike/apis.yaml"
+		},
+		{
+			"name": "Entertainment Express",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sports/master/_listings/entertainment-express/apis.yaml"
+		},
+		{
+			"name": "Strava",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sports/master/_listings/strava/apis.yaml"
+		},
+		{
+			"name": "Decathlon",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sports/master/_listings/decathlon/apis.yaml"
+		}
+	]
+}
